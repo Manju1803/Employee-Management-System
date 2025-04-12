@@ -30,3 +30,52 @@ employee-management-system/
 ├── README.md                # Project documentation
 
 
+
+
+
+
+# 🎓 Student Registration Form
+
+A simple and responsive **Student Registration Form** created using **HTML** and **CSS**. This project allows users to enter student details like personal information, education level, gender, and contact information through a clean and styled web form.
+
+---
+
+## 🌐 Live Preview
+
+You can open the `index.html` file in any browser to see the form in action.
+
+---
+
+## 📌 Features
+
+- ✅ Collects student details:
+  - First & Last Name
+  - Username & Password
+  - Date of Birth
+  - Address
+  - Education Level
+  - Gender
+  - Phone Number
+  - Certificate Upload
+- 🎨 Stylish design with light pink background and padding
+- 📄 Input types include text, password, date, URL, checkboxes, radio buttons, and file upload
+- 🔄 Reset and Submit buttons included
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Internal Styling)
+
+---
+
+## 📂 File Structure
+
+```bash
+student-registration-form/
+├── index.html       # Main HTML file
+├── README.md        # Project documentation
+
+
+
