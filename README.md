@@ -28,3 +28,5 @@ The system allows users to manage employee records through a console-based menu.
 employee-management-system/
 ├── employee_management.py   # Main Python script
 ├── README.md                # Project documentation
+
+
